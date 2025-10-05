@@ -23,3 +23,6 @@
 
 ### Hasil Pencarian Algoritma
 ![Hasil pencarian algoritma TSP](Hasil.png)
+
+### Cek di google collabs untuk output lengkapnya 
+https://colab.research.google.com/drive/1kOThrGf2hCaUMS4ezREU75IbQPw7qnke?usp=sharing
