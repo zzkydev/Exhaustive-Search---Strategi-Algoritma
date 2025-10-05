@@ -30,10 +30,10 @@ for (a,b), d in w.items():
 
 # 3. Posisi node
 pos = {
-    'R': (-3.5, 2.2),    # Kiri atas (Futsal)
+    'R': (-2.5, 2.2),    # Kiri atas (Futsal)
     'U': (1.2, 1.9),     # Tengah-kanan atas (Freelance)
     'T': (-3.5, 0.4),    # Kiri tengah, vertikal dengan R (Nugas)
-    'P': (1.2, 0.4),     # Tengah kanan (Kos)
+    'P': (1.2, 0.6),     # Tengah kanan (Kos)
     'S': (4.8, 0.4),     # Paling kanan (Kopi)
     'Q': (-0.8, -1.8)    # Bawah tengah agak ke kiri (Kampus)
 }
