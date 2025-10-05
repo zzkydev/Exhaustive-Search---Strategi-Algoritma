@@ -1,13 +1,5 @@
 # Visualisasi Rute Tercepat TSP
 
-## Ringkasan
-Script `SA.py` membangun graf berbobot yang memodelkan jarak antar lokasi Q, R, S, T, U, dan P. Semua permutasi rute yang berawal dan berakhir di Q dihitung untuk menemukan lintasan terpendek (Traveling Salesman Problem) sekaligus divisualisasikan menggunakan NetworkX dan Matplotlib.
-
-## Ketergantungan
-- Python 3.10+
-- networkx
-- matplotlib
-
 Instalasi cepat:
 ```
 pip install networkx matplotlib
@@ -41,7 +33,4 @@ Program akan mencetak matriks jarak, rute terbaik, dan secara default menampilka
 ![Figure 2 - Rute terbaik disorot](Figure_2.png)
 
 ### Hasil Pencarian Algoritma
-![Hasil pencarian algoritma TSP](Hasil pencarian Algoritma TSP.png)
-
-## Catatan
-Apabila dijalankan di lingkungan tanpa tampilan grafis, Anda bisa mengganti `plt.show()` dengan `plt.savefig()` untuk menyimpan figur secara otomatis.
+![Hasil pencarian algoritma TSP](Hasil-pencarian-Algoritma-TSP.png)
