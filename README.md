@@ -13,8 +13,8 @@
 | P | 4 | 6 | 8 | 7 | 2 | 0 |
 
 ### Rute Terbaik
-- Rute: `Q -> S -> R -> T -> U -> P -> Q`
-- Total jarak: `21`
+- Rute: `Q -> R -> T -> S -> U -> P -> Q`
+- Total jarak: `23`
 
 ### Visualisasi
 ![Figure 1 - Graf lengkap](Figure_1.png)
