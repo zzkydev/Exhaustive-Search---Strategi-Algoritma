@@ -61,10 +61,13 @@ def d(a,b):
 for perm in itertools.permutations(others):
     route = [start] + list(perm) + [start]
     cost = sum(d(route[i], route[i+1]) for i in range(len(route)-1))
+    route_str = " -> ".join(route)
+    print(f"{route_str} = {cost}")
     if cost < best_cost:
         best_cost = cost
         best_route = route
 
+print()
 print("Rute tercepat:", " -> ".join(best_route))
 print("Total jarak:", best_cost)
 print()
