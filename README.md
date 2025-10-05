@@ -22,4 +22,4 @@
 ![Figure 2 - Rute terbaik disorot](Figure_2.png)
 
 ### Hasil Pencarian Algoritma
-![Hasil pencarian algoritma TSP](Hasil-pencarian-Algoritma-TSP.png)
+![Hasil pencarian algoritma TSP](Hasil.png)
