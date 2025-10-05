@@ -1,16 +1,5 @@
 # Visualisasi Rute Tercepat TSP
 
-Instalasi cepat:
-```
-pip install networkx matplotlib
-```
-
-## Cara Menjalankan
-```
-python SA.py
-```
-Program akan mencetak matriks jarak, rute terbaik, dan secara default menampilkan dua jendela visualisasi.
-
 ## Hasil
 
 ### Matriks Jarak
