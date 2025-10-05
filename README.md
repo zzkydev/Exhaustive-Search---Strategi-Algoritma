@@ -17,9 +17,9 @@
 - Total jarak: `23`
 
 ### Visualisasi
-![Figure 1 - Graf lengkap](Figure_1.png)
+![Figure 1 - Graf lengkap](Figure_1fix.png)
 
-![Figure 2 - Rute terbaik disorot](Figure_2.png)
+![Figure 2 - Rute terbaik disorot](Figure_2fix.png)
 
 ### Hasil Pencarian Algoritma
 ![Hasil pencarian algoritma TSP](Hasil.png)
